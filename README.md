@@ -1,2 +1,2 @@
-# La-os-e-Desafios
+# Lacos-e-Desafios
 Competição de conhecimentos gerais
